@@ -17,3 +17,23 @@
 
 - Node.js installed on your system.
 
+
+### Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/yourusername/TypeScript-CLI-Calculator.git
+
+Navigate to the project directory:
+
+cd TypeScript-CLI-Calculator
+
+Install dependencies:
+   
+npm install
+
+### Acknowledgments
+
+Developed as a PIAIC Assignment.
+Inspired by the need for a user-friendly CLI calculator.
